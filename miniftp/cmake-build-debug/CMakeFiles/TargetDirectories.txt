@@ -1,0 +1,3 @@
+/home/duwenqin123/CLionProjects/miniftpd27/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/duwenqin123/CLionProjects/miniftpd27/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/duwenqin123/CLionProjects/miniftpd27/cmake-build-debug/CMakeFiles/miniftpd.dir
